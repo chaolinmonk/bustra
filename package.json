@@ -1,0 +1,25 @@
+{
+  "name": "bustra",
+  "version": "1.0.0",
+  "description": "prueba de bootstrap 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"estoy vivo\")"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaolinmonk/bustra.git"
+  },
+  "keywords": [
+    "hola"
+  ],
+  "author": "Chaolinmonk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chaolinmonk/bustra/issues"
+  },
+  "homepage": "https://github.com/chaolinmonk/bustra#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
